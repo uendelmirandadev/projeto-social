@@ -12,10 +12,15 @@ html, body {
     background-color: black;
 }
 
+body {
+    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 main {
     position: relative; /*IMPORTANTE PARA FAZER O BLOCO DO MEIO FICAR CENTRALIZADO*/
-    height: 100vh;
-    background-color: green;
+    height: 100vh;  
 }
 
 section#telefone {
@@ -24,9 +29,9 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%); 
 
-    height: 500px;
-    width: 500px;
-    background-color: blue;
-    background: url('../imagens/frame-iphone.png');
+    height: 627px;
+    width: 311px;
+    background: url('../imagens/frame-iphone5.png') no-repeat;
+
 
 }
