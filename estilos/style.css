@@ -32,8 +32,6 @@ section#telefone {
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone5.png') no-repeat;
-    
-
 }
 
 iframe#tela {
@@ -42,7 +40,6 @@ iframe#tela {
     left: 15px;
     width: 234px;
     height: 470px;
-
 }
 
 section#redes-sociais {
@@ -55,7 +52,6 @@ section#redes-sociais img { /*CONFIGURAÇÕES DAS IMG DOS ICONES*/
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
-
 }
 
 section#redes-sociais img:hover { /*CONFIGURAÇÕES BOTOES DE REDES SOCIAIS*/
